@@ -2,11 +2,11 @@ module.exports = {
   title: 'Dev Paradise',
   tagline: 'Just Making the Developer\'s Life Easy, One Commit at a Time!',
   url: 'https://hackyroot.github.io',
-  baseUrl: '/',
+  baseUrl: '/dev_paradise/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
   organizationName: 'hackyroot', // Usually your GitHub org/user name.
-  projectName: 'dev_paradise', // Usually your repo name.
+  projectName: 'git remote add origin git@github.com:HackyRoot/dev_paradise.git', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Dev Paradise',
